@@ -1,0 +1,20 @@
+/* Estilo visual del canvas */
+#lienzo {
+
+  /* Fondo café claro */
+  background-color: #f0eeec; /* tono tipo "tan" */
+
+  /* Borde café oscuro */
+  border: 0px solid #a5a09e;
+
+  /* Esquinas redondeadas */
+  border-radius: 20px;
+
+  /* Sombra exterior */
+  box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);
+
+  /* Mejor comportamiento visual */
+  display: block;
+  margin: 30px auto; /* centrado horizontal opcional */
+}
+
